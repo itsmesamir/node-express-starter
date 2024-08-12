@@ -1,0 +1,11 @@
+# gitignore file
+
+# Ignore node_modules directory
+/node_modules
+/dist
+/build
+/.vscode
+/.idea
+/.vs
+/.nyc_output
+/.cache
